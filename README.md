@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  I am a passionate Computer Science and Engineering student from Dehradun, India, with a love for creating efficient, scalable, and innovative solutions. I thrive on solving complex problems and am constantly exploring new technologies in the world of full-stack development and artificial intelligence.
+  I am a passionate Computer Science and Engineering student from Delhi NCR, India, with a love for creating efficient, scalable, and innovative solutions. I thrive on solving complex problems and am constantly exploring new technologies in the world of full-stack development and artificial intelligence.
 </p>
 
 ---
@@ -23,10 +23,11 @@
 ### 🚀 About Me
 
 -   🔭 I’m currently contributing to open-source projects at **GirlScript Summer of Code (GSSOC)** and building AI-powered web applications like the **AI-Nexus-Platform**.
--   🌱 I’m deepening my skills in **cloud architecture, cybersecurity, and advanced machine learning models**.
+-   🌱 I’m deepening my skills in **Agile, Cloud Architecture, Cybersecurity, Andriod Development, AI Integrated Applications and advanced Machine Learning Models**.
 -   👯 I’m looking to collaborate on **Open Source projects related to AI/ML or Full-Stack Web Development.**
--   💬 Ask me about **C++, JavaScript, TensorFlow.js, Firebase, Tailwind CSS, and System Design**.
--   📫 How to reach me: **omshriansh16@gmail.com**.
+-   💬 Ask me about **C++, JavaScript, TensorFlow.js, Firebase, Tailwind CSS, Andriod Development, Artificial Engineering and System Design**.
+-   📫 How to reach me:
+  -    **Gmail** - **omshriansh16@gmail.com** , **My Website - https://synapsoul-website.vercel.app/** , **LinkidIn - https://www.linkedin.com/in/shriansh-vikram-singh-8a7938231**
 -   ⚡ Fun fact: **The first computer bug was a real moth stuck in a relay!**
 
 ---
@@ -70,13 +71,6 @@
 ### 📈 My Profile Summary
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shriansh1625&theme=tokyonight" alt="Profile Summary Card">
-</p>
-
----
-
-My Contribution Snake 🐍
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shriansh1625/shriansh1625/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
 
 
