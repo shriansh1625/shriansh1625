@@ -1,1 +1,17 @@
+# GitHub Action for updating blog posts
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
 
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # IMPORTANT: REPLACE THIS URL with your blog's RSS feed URL
+          feed_list: "https://dev.to/feed/your-username"
