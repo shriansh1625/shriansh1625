@@ -81,3 +81,4 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=shriansh1625&bg_color=1a1b27&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
   </a>
 </div>
+[![An image of @shriansh1625's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shriansh1625)](https://holopin.io/@shriansh1625)
