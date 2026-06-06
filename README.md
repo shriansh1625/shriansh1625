@@ -240,12 +240,12 @@ class ShrianshVikramSingh:
 ## `>` Experience Timeline
 
 ```text
-2024 — present  │ 🧠 AI Engineer Intern · Procand
+2026 — present  │ 🧠 AI Engineer Intern · Procand
                 │    Architected 6 production AI interview agents on ElevenLabs Voice AI.
                 │    Engineered adaptive questioning, skill extraction & AI scoring.
                 │    Automated the full hiring pipeline — removed recruiters from round one.
                 │
-2024            │ 🔬 Research Intern · IBIoT Lab, MMMUT
+2026 - present  │ 🔬 Research Intern · IBIoT Lab, MMMUT
                 │    Building AI-based fall detection over IoT sensor streams.
                 │    Designed real-time ML detection pipelines for smart healthcare.
                 │
@@ -364,9 +364,9 @@ contributing: open-source AI tooling
 
 **Open to AI Engineering roles, research collaborations, and building ambitious AI systems.**
 
-<a href="https://www.linkedin.com/in/shriansh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:shriansh@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/shriansh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shriansh-vikram-singh-8a7938231/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:omshriansh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/shriansh1625"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://twitter.com/shriansh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 </div>
