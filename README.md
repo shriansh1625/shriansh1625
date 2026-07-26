@@ -1,33 +1,34 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                      SHRIANSH VIKRAM SINGH                            ║ -->
-<!-- ║              AI Systems Engineer · Multi-Agent Architect             ║ -->
+<!-- ║        AI Systems Engineer · Multi-Agent Architect · Founder          ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
 <!-- ══════════════════════ HERO BANNER ══════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shriansh%20Vikram%20Singh&fontSize=46&fontColor=00f5d4&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20·%20Multi-Agent%20Architect%20·%20Voice%20AI%20·%20RAG&descSize=18&descAlignY=60&descColor=9b5de5" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shriansh%20Vikram%20Singh&fontSize=46&fontColor=00f5d4&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20·%20Multi-Agent%20Architect%20·%20Founder%2C%20SynapSoul%20Labs&descSize=17&descAlignY=60&descColor=9b5de5" alt="header"/>
 
 <!-- ══════════════════════ TYPING SVG ══════════════════════ -->
 
-<a href="https://github.com/shriansh">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Architecting+LLM-Powered+Multi-Agent+Systems;Building+Autonomous+AI+Agents+%26+Voice+AI+Pipelines;Designing+Production+RAG+Architectures;Engineering+Cloud-Native+Generative+AI+Products;I+don't+learn+AI.+I+ship+it." alt="Typing SVG" />
+<a href="https://github.com/shriansh1625">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Architecting+LLM-Powered+Multi-Agent+Systems;Founder+%40+SynapSoul+Labs+-+AI+Engineering+OS;Building+Autonomous+Research+%26+Voice+AI+Pipelines;Google+Student+Ambassador+%7C+Cybersecurity+%2B+Enterprise+AI;I+don't+learn+AI.+I+ship+it." alt="Typing SVG" />
 </a>
 
 <!-- ══════════════════════ TOP BADGES ══════════════════════ -->
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=shriansh&label=Profile%20Views&color=00f5d4&style=for-the-badge" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=shriansh1625&label=Profile%20Views&color=00f5d4&style=for-the-badge" alt="views"/>
 <img src="https://img.shields.io/badge/AI_Engineer-Multi--Agent_Systems-9b5de5?style=for-the-badge&logo=openai&logoColor=white" alt="role"/>
-<img src="https://img.shields.io/badge/Status-Building_in_Production-00f5d4?style=for-the-badge" alt="status"/>
+<img src="https://img.shields.io/badge/Founder-SynapSoul_Labs-00f5d4?style=for-the-badge&logo=vercel&logoColor=black" alt="founder"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-ff6f00?style=for-the-badge" alt="status"/>
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/shriansh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:shriansh@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/shriansh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://twitter.com/shriansh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shriansh-vikram-singh-8a7938231/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:omshriansh16@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/shriansh1625"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ShrianshVikram_1625"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 </div>
@@ -38,22 +39,55 @@
 
 ## `>` whoami
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Role-AI_Systems_Engineer_%26_Founder-9b5de5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Readiness_Score-98%2F100-00f5d4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hackathons-2nd_%7C_Top_5-ff6f00?style=for-the-badge"/>
+
+</div>
+
+<details open>
+<summary><b>💻 Click to expand / collapse the terminal view</b></summary>
+
 ```python
 class ShrianshVikramSingh:
     def __init__(self):
-        self.role          = "AI Systems Engineer"
-        self.specialties   = ["Multi-Agent Systems", "Voice AI", "RAG", "LLM Infra"]
-        self.shipped       = "6 production AI Interview Agents on ElevenLabs Voice AI"
+        self.role          = "AI Systems Engineer & Founder"
+        self.specialties   = ["Multi-Agent Systems", "RAG", "Voice AI", "Cybersecurity", "Enterprise AI"]
+        self.founded       = "SynapSoul Labs — AI Engineering Operating System"
+        self.shipped       = "6 production AI Interview Agents on ElevenLabs Voice AI @ Procand"
         self.research      = "AI-based Fall Detection in IoT @ IBIoT Lab, MMMUT"
-        self.recognition   = ["2nd / 1100+ teams @ IISc ArtPark", "Top 5 / 1500+ @ Zynd AIckathon"]
-        self.stack         = ["LangChain", "FastAPI", "FAISS", "Gemini", "AWS", "Flutter"]
+        self.recognition   = ["2nd / 1100+ teams @ IISc ArtPark ProtoDash", "Top 5 / 1500+ @ Zynd Aickathon"]
+        self.readiness     = "98/100 Readiness Score · 47/47 modules · 6/6 skills verified"
+        self.stack         = ["LangGraph", "LangChain", "FastAPI", "FAISS", "Next.js", "AWS", "Flutter"]
         self.mindset       = "Architect systems. Automate workflows. Ship to prod."
 
     def current_focus(self):
-        return "Autonomous agent orchestration + retrieval-grounded reasoning"
+        return "Autonomous research agent orchestration + enterprise AI tooling"
 ```
 
-> **AI Engineer with production experience** designing LLM-powered multi-agent systems, autonomous agents, voice-automated hiring pipelines, and retrieval-augmented architectures. I architect cloud-native generative AI products end-to-end — from agent orchestration to vector retrieval to deployment. National-level AI hackathon winner, applied AI researcher, and open-source contributor who operates beyond the student level.
+</details>
+
+> **AI Engineer with production experience** designing LLM-powered multi-agent systems, autonomous research platforms, voice-automated hiring pipelines, and retrieval-augmented architectures. Founder of **SynapSoul Labs**, Google Student Ambassador, national-level AI hackathon winner, applied AI researcher, and open-source contributor operating beyond the student level.
+
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" />
+
+<!-- ══════════════════════ VERIFIED PROOF ══════════════════════ -->
+
+## `>` Verified Hiring Proof
+
+<div align="center">
+
+**Public, hiring-facing proof profile — verified skills, completed builds, and readiness score.**
+
+| 📊 Readiness Score | 📦 Live Builds | ✅ Completed | 🧾 Proof Cards |
+|:---:|:---:|:---:|:---:|
+| **98 / 100** (47/47 modules · 6/6 skills) | Active | **6** finished end-to-end | **10** built-work proof points |
+
+**Status:** 🟢 Open to Opportunities · since Jul 16, 2026 · [View full profile → upsk.to/@shriansh1625](https://upsk.to/shriansh1625)
+
+</div>
 
 <img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" />
 
@@ -65,11 +99,11 @@ class ShrianshVikramSingh:
 
 | 🧠 Multi-Agent Systems | 🔍 Retrieval-Augmented Generation | 🎙️ Voice AI |
 |:---:|:---:|:---:|
-| Autonomous agent orchestration, tool-use, and decentralized AI swarms | Source-grounded responses, vector search, hallucination reduction | Conversational intelligence, adaptive questioning, real-time STT |
+| Autonomous agent orchestration via LangGraph, tool-use, decentralized AI swarms | Claim-level, citation-backed retrieval; hallucination reduction | Conversational intelligence, adaptive questioning, real-time STT |
 
-| ⚡ LLM Infrastructure | ☁️ Cloud-Native AI | 🔬 Applied Research |
+| ⚡ Enterprise AI Tooling | ☁️ Cloud-Native AI | 🛡️ Cybersecurity |
 |:---:|:---:|:---:|
-| Prompt/agent pipelines, async backends, scalable inference | AWS-deployed AI apps, microservices, real-time monitoring | ML pipelines, real-time detection, IoT analytics |
+| Agent Studio, RAG Studio, Prompt Lab, Dataset Studio, Eval Center | AWS-deployed AI apps, microservices, Vercel + Render CI/CD | CCNA-certified networking, Palo Alto network security fundamentals |
 
 </div>
 
@@ -81,25 +115,29 @@ class ShrianshVikramSingh:
 
 **AI / ML & Agents**
 
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen_2.5-8E44AD?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=meta&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-**Voice AI**
+**Voice AI & Comms**
 
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![Speech-to-Text](https://img.shields.io/badge/Speech--to--Text-4285F4?style=for-the-badge&logo=googleassistant&logoColor=white)
-![Conversational AI](https://img.shields.io/badge/Conversational_AI-00B8D9?style=for-the-badge&logo=rasa&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 
 **Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -109,18 +147,27 @@ class ShrianshVikramSingh:
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 **Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Databases**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge&logo=apachehive&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Networking & Security**
+
+![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo_Alto-Network_Security-FA582D?style=for-the-badge&logo=paloaltosoftware&logoColor=white)
 
 <img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" />
 
@@ -132,34 +179,34 @@ class ShrianshVikramSingh:
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 SynapSoul Nexus
-**Source-Grounded AI Research Platform**
+### 🧠 SynaptiQ ResearchOS
+**Autonomous Multi-Agent Research Platform**
 
 > **Problem** — Research synthesis is slow, and LLMs hallucinate when reasoning over large corpora.
 >
-> **Architecture** — FastAPI service orchestrating LangChain retrieval chains over a FAISS vector index, with Gemini as the reasoning engine and a RAG layer enforcing source grounding.
+> **Architecture** — LangGraph orchestrates research, verification, reasoning, and executive-brief agents; claim-level verification runs against FAISS, Semantic Scholar, and arXiv for citation-backed output.
 >
-> **Stack** — `FastAPI` · `LangChain` · `Gemini` · `FAISS` · `RAG` · `Python`
+> **Stack** — `Python` · `FastAPI` · `LangGraph` · `FAISS` · `PostgreSQL` · `Next.js`
 >
-> **Impact** — Generates executive summaries with citations; measurably reduces hallucination via retrieval grounding.
+> **Impact** — Citation-backed, hallucination-resistant research briefs with automated knowledge-graph generation.
 >
-> **Innovation** — Automated research pipeline with traceable, source-attributed reasoning.
+> **Innovation** — Presented at the **Capgemini Agentify AI 2026** competition with a full 12-slide technical deck.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎵 Sargam
-**AI-Native Music Platform**
+### 🧬 SynapSoul
+**Enterprise AI Engineering Platform** · *Founder & AI Engineer*
 
-> **Problem** — Music discovery ignores real-time emotional context.
+> **Problem** — AI teams lack one integrated workspace to build, test, and ship agents and RAG pipelines.
 >
-> **Architecture** — Flutter client backed by Supabase, with a Gemini-powered Emotion Engine driving an AI DJ, setlist builder, and dynamic playlist generation.
+> **Architecture** — Full-stack platform with 12 integrated modules — Agent Studio, RAG Studio, Prompt Lab, Dataset Studio, Experiment Tracker, and Evaluation Center — on a local-first IndexedDB architecture.
 >
-> **Stack** — `Flutter` · `Gemini` · `Supabase`
+> **Stack** — `TypeScript` · `React` · `TanStack` · `OpenRouter` · `Qwen 2.5` · `Vercel`
 >
-> **Impact** — Personalized, emotion-aware listening experiences generated on the fly.
+> **Impact** — 53 automated tests, strict TypeScript, and Vercel CI/CD for reliable, production-quality delivery.
 >
-> **Innovation** — Emotion → music mapping engine with autonomous AI DJ curation.
+> **Innovation** — Now organized under **SynapSoul Labs**, with active repos including `synapsoulos`, `synapsoul-command`, and `trust-transparency-core`.
 
 </td>
 </tr>
@@ -171,9 +218,9 @@ class ShrianshVikramSingh:
 
 > **Problem** — Micro-insurance lacks real-time risk pricing and fast, fraud-resistant claims.
 >
-> **Architecture** — FastAPI backend serving an XGBoost predictive risk engine, with WebSocket channels for real-time monitoring and automated claim processing.
+> **Architecture** — FastAPI backend with a 7-day hyperlocal disruption risk engine, async WebSocket monitoring, automated Razorpay payouts, and XGBoost fraud scoring with duplicate-submission detection.
 >
-> **Stack** — `FastAPI` · `XGBoost` · `WebSockets`
+> **Stack** — `FastAPI` · `WebSockets` · `Razorpay API` · `XGBoost`
 >
 > **Impact** — Real-time risk scoring, automated claims, and fraud detection in one pipeline.
 >
@@ -205,11 +252,11 @@ class ShrianshVikramSingh:
 
 > **Problem** — First-round screening is manual, slow, and inconsistent.
 >
-> **Architecture** — 6 specialized AI interview agents built on ElevenLabs Voice AI, performing adaptive questioning, skill extraction, candidate evaluation, and AI scoring across an automated pipeline.
+> **Architecture** — 6 specialized AI interview agents built on ElevenLabs Voice AI, performing adaptive questioning, STT-based skill extraction, and multi-dimensional AI scoring.
 >
 > **Stack** — `ElevenLabs` · `Conversational AI` · `LLMs` · `Python`
 >
-> **Impact** — Eliminated recruiter involvement in first-round screening.
+> **Impact** — Objective candidate rankings for recruiter dashboards; eliminated recruiter involvement in first-round screening.
 >
 > **Innovation** — Multi-agent voice interviewers with adaptive, evaluative reasoning.
 
@@ -221,13 +268,47 @@ class ShrianshVikramSingh:
 
 > **Problem** — Fall events in elderly/at-risk populations go undetected in real time.
 >
-> **Architecture** — ML pipelines over IoT sensor streams performing real-time detection and analytics for smart-healthcare environments.
+> **Architecture** — ML pipelines over IoT sensor streams for non-intrusive, real-time fall identification, built under Agile practices with faculty guidance.
 >
 > **Stack** — `Machine Learning` · `IoT Analytics` · `Real-Time Systems`
 >
 > **Impact** — Real-time fall detection for safer assisted-living environments.
 >
 > **Innovation** — Sensor-fusion ML pipeline tuned for low-latency detection.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 Sargam
+**AI-Native Music Platform**
+
+> **Problem** — Music discovery ignores real-time emotional context.
+>
+> **Architecture** — Flutter client backed by Supabase, with a Gemini-powered Emotion Engine driving an AI DJ, setlist builder, and dynamic playlist generation.
+>
+> **Stack** — `Flutter` · `Gemini` · `Supabase`
+>
+> **Impact** — Personalized, emotion-aware listening experiences generated on the fly.
+>
+> **Innovation** — Emotion → music mapping engine with autonomous AI DJ curation.
+
+</td>
+<td width="50%" valign="top">
+
+### 📥 GrowEasy CSV Importer
+**LLM-Powered Data Mapping Tool**
+
+> **Problem** — Arbitrary CSV exports rarely match a CRM's expected schema.
+>
+> **Architecture** — An LLM-driven column-mapping engine that infers and maps arbitrary CSV headers into a target CRM schema, with heavy emphasis on precise prompt design.
+>
+> **Stack** — `TypeScript` · `LLMs` · `Prompt Engineering`
+>
+> **Impact** — Automated schema mapping without manual column-matching.
+>
+> **Innovation** — Prompt-engineering-first approach to robust, arbitrary-input data ingestion.
 
 </td>
 </tr>
@@ -240,21 +321,28 @@ class ShrianshVikramSingh:
 ## `>` Experience Timeline
 
 ```text
-2026 — present  │ 🧠 AI Engineer Intern · Procand
-                │    Architected 6 production AI interview agents on ElevenLabs Voice AI.
-                │    Engineered adaptive questioning, skill extraction & AI scoring.
-                │    Automated the full hiring pipeline — removed recruiters from round one.
-                │
-2026 - present  │ 🔬 Research Intern · IBIoT Lab, MMMUT
-                │    Building AI-based fall detection over IoT sensor streams.
-                │    Designed real-time ML detection pipelines for smart healthcare.
-                │
-2024            │ 📊 AI/ML Intern · IBM
-                │    Implemented classification, regression & predictive analytics.
-                │    Engineered feature pipelines for production ML workflows.
-                │
-ongoing         │ 🌐 Open Source Contributor · GSSoC
-                │    Contributed to open-source projects across the ecosystem.
+Apr 2026 — present │ 🎓 Google Student Ambassador · Google
+                    │    Representing Google's developer programs on campus.
+                    │
+Feb 2026 — present │ 🚀 Founder & AI Engineer · SynapSoul Labs (Self-employed)
+                    │    Building SynapSoul — an AI Engineering Operating System.
+                    │    12 integrated modules spanning agents, RAG, prompts & evals.
+                    │
+Jun 2026 — Jul 2026 │ 🔬 Research Intern · IBIoT Lab, MMMUT
+                    │    Engineered an AI-powered fall detection system over IoT streams.
+                    │    Applied Agile practices under Dr. Shwet Ketu, Dept. of CS&E.
+                    │
+Mar 2026 — May 2026 │ 🧠 AI & ML Engineer Intern · Procand
+                    │    Designed & built 6 production AI interview agents (ElevenLabs).
+                    │    Engineered STT-based skill extraction & multi-dimensional AI scoring.
+                    │
+Jun 2025 — Jul 2025 │ 📊 AI & ML Virtual Intern · IBM – EduSkills Foundation
+                    │    Built classification/regression pipelines; improved baseline
+                    │    accuracy by ~15%. Graduated with distinction, top 5% of cohort.
+                    │
+Mar 2025 — present  │ 🌐 Open Source Contributor · GirlScript Summer of Code (GSSoC)
+                    │    Delivered bug fixes and production-quality features; PRs
+                    │    reviewed, merged, and adopted by maintainers.
 ```
 
 <img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" />
@@ -265,12 +353,49 @@ ongoing         │ 🌐 Open Source Contributor · GSSoC
 
 <div align="center">
 
-| 🏆 Achievement | 📍 Event | 📈 Rank |
+<img src="https://img.shields.io/badge/🏆_Hackathon_Placements-2-00f5d4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎯_Readiness_Score-98%2F100-9b5de5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Agents_Shipped-6-ff6f00?style=for-the-badge"/>
+
+<table>
+<tr>
+<th align="left">🏅</th><th align="left">Achievement</th><th align="left">Event</th><th align="center">Rank</th>
+</tr>
+<tr>
+<td>🥈</td><td><b>2nd Place</b></td><td>ArtPark ProtoDash, Rhapsody 4.0 · IISc Bangalore</td>
+<td align="center"><img src="https://img.shields.io/badge/2nd-1100%2B_teams-C0C0C0?style=flat-square&logo=trophy&logoColor=white"/></td>
+</tr>
+<tr>
+<td>🏅</td><td><b>Top 5 Finalist</b></td><td>Zynd Aickathon National (built <i>Zynd Alpha</i>)</td>
+<td align="center"><img src="https://img.shields.io/badge/Top_5-1500%2B_participants-CD7F32?style=flat-square&logo=trophy&logoColor=white"/></td>
+</tr>
+<tr>
+<td>📊</td><td><b>Readiness Score</b></td><td>upsk.to verified proof profile</td>
+<td align="center"><img src="https://img.shields.io/badge/Score-98%2F100-00f5d4?style=flat-square"/></td>
+</tr>
+<tr>
+<td>🚀</td><td><b>Production Shipper</b></td><td>AI & ML Engineer Intern · Procand</td>
+<td align="center"><img src="https://img.shields.io/badge/Live_Agents-6-9b5de5?style=flat-square"/></td>
+</tr>
+<tr>
+<td>🔬</td><td><b>Applied Researcher</b></td><td>IBIoT Lab · MMMUT</td>
+<td align="center"><img src="https://img.shields.io/badge/Focus-Fall_Detection_R%26D-ff6f00?style=flat-square"/></td>
+</tr>
+</table>
+
+<details>
+<summary><b>📈 Click to expand the upsk.to readiness score breakdown</b></summary>
+<br/>
+
+| Metric | Progress | Score |
 |:---|:---|:---:|
-| **2nd Place** | ArtPark **ProtoDash** Challenge · IISc Bangalore | **2nd / 1100+ teams** |
-| **Top 5 Finalist** | **Zynd AIckathon** (built *Zynd Alpha*) | **Top 5 / 1500+ participants** |
-| **Production Shipper** | AI Engineer Intern · Procand | **6 live agents** |
-| **Applied Researcher** | IBIoT Lab · MMMUT | **Fall Detection R&D** |
+| Modules completed | `██████████` | **47 / 47** |
+| Skills verified | `██████████` | **6 / 6** |
+| Overall readiness | `█████████░` | **98 / 100** |
+
+🟢 **Open to Opportunities** since Jul 16, 2026 · [View full verified profile → upsk.to](https://upsk.to)
+
+</details>
 
 </div>
 
@@ -282,19 +407,20 @@ ongoing         │ 🌐 Open Source Contributor · GSSoC
 
 ```mermaid
 flowchart LR
-    U([User / Voice Input]) --> O[Agent Orchestrator]
-    O --> A1[Interviewer Agent]
-    O --> A2[Evaluator Agent]
-    O --> A3[Skill-Extraction Agent]
-    A1 --> V[ElevenLabs Voice AI]
-    A2 --> S[AI Scoring]
-    A3 --> R[(FAISS Vector Store)]
+    U([User / Voice / Research Query]) --> O[LangGraph Agent Orchestrator]
+    O --> A1[Research Agent]
+    O --> A2[Verification Agent]
+    O --> A3[Reasoning Agent]
+    O --> A4[Interviewer Agent]
+    A1 --> R[(FAISS / arXiv / Semantic Scholar)]
+    A2 --> R
     R --> RAG[RAG / Source Grounding]
-    RAG --> LLM[LLM Reasoning · Gemini]
-    LLM --> OUT([Grounded Decision])
+    RAG --> LLM[LLM Reasoning · Gemini / Qwen 2.5]
+    A4 --> V[ElevenLabs Voice AI]
+    V --> S[AI Scoring]
+    LLM --> OUT([Grounded Decision / Brief])
     S --> OUT
-    V --> OUT
-    OUT --> CL[FastAPI · AWS · WebSockets]
+    OUT --> CL[FastAPI · Next.js · PostgreSQL · AWS/Vercel]
 ```
 
 <img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" />
@@ -305,12 +431,16 @@ flowchart LR
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shriansh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=00f5d4&icon_color=9b5de5&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriansh&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00f5d4&text_color=ffffff"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=shriansh1625&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0f0c29&title_color=00f5d4&icon_color=9b5de5&text_color=ffffff&cache_seconds=14400&v=20260727"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shriansh1625&layout=compact&theme=radical&hide_border=true&border_radius=10&bg_color=0f0c29&title_color=00f5d4&text_color=ffffff&cache_seconds=14400&v=20260727"/>
 
-<img src="https://streak-stats.demolab.com?user=shriansh&theme=radical&hide_border=true&background=0f0c29&ring=00f5d4&fire=9b5de5&currStreakLabel=00f5d4"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shriansh&theme=react-dark&bg_color=0f0c29&color=00f5d4&line=9b5de5&point=ffffff&hide_border=true&area=true"/>
+<img src="https://streak-stats.demolab.com?user=shriansh1625&theme=radical&hide_border=true&border_radius=10&background=0f0c29&ring=00f5d4&fire=9b5de5&currStreakLabel=00f5d4&v=20260727"/>
+
+<br/>
+
+<img src="https://github-trophies.vercel.app/?username=shriansh1625&theme=radical&no-frame=true&no-bg=true&row=1&column=6&title=Commits,Repositories,Followers,Stars,PullRequest,Experience&v=20260727"/>
 
 </div>
 
@@ -337,11 +467,12 @@ flowchart LR
 ## `>` Current Focus
 
 ```yaml
-building:    autonomous multi-agent orchestration with tool-use + memory
-researching: retrieval-grounded reasoning & hallucination reduction in RAG
-scaling:     voice-AI pipelines for real-time conversational evaluation
-deploying:   cloud-native generative AI services on AWS
-contributing: open-source AI tooling
+building:     SynapSoul — AI Engineering Operating System (Founder & AI Engineer)
+researching:  autonomous, citation-backed research agents (SynaptiQ ResearchOS)
+representing: Google Student Ambassador — campus developer programs
+scaling:      voice-AI + enterprise agent pipelines for real-time evaluation
+deploying:    cloud-native generative AI services on AWS, Vercel & Render
+contributing: open-source AI tooling via GSSoC
 ```
 
 <img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" />
@@ -350,9 +481,46 @@ contributing: open-source AI tooling
 
 ## `>` Certifications & Credentials
 
-![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+<div align="center">
+<img src="https://img.shields.io/badge/Total_Credentials-7-00f5d4?style=for-the-badge"/>
+</div>
+
+<details open>
+<summary><b>🤖 AI & Cloud (3)</b></summary>
+<br/>
+
+![Oracle](https://img.shields.io/badge/Oracle-Agentic_AI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS SA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CP](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🌐 Networking & Security (2)</b></summary>
+<br/>
+
+![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA_(3_tracks)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo_Alto-Network_Security_Fundamentals-FA582D?style=for-the-badge&logo=paloaltosoftware&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🔬 Research & Open Source (2)</b></summary>
+<br/>
+
 ![IBM](https://img.shields.io/badge/IBM-AI%2FML_Intern-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![GSSoC](https://img.shields.io/badge/GSSoC-Open_Source_Contributor-FF6F00?style=for-the-badge&logo=git&logoColor=white)
+
+</details>
+
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" />
+
+<!-- ══════════════════════ EDUCATION ══════════════════════ -->
+
+## `>` Education
+
+**G.L. Bajaj Institute of Technology & Management, Delhi NCR (AKTU)** · Sep 2023 – Jun 2027
+B.Tech — Computer Science & Engineering · CGPA: 7.5 / 10 (through 6th Semester)
 
 <img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" />
 
@@ -365,9 +533,9 @@ contributing: open-source AI tooling
 **Open to AI Engineering roles, research collaborations, and building ambitious AI systems.**
 
 <a href="https://www.linkedin.com/in/shriansh-vikram-singh-8a7938231/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:omshriansh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:omshriansh16@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/shriansh1625"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://twitter.com/shriansh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ShrianshVikram_1625"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 </div>
 
