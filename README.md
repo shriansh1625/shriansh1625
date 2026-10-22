@@ -17,6 +17,14 @@
 
 <!-- ══════════════════════ TOP BADGES ══════════════════════ -->
 
+<p><strong>Founder of <a href="https://synapsoulai.me/">SynapSoul Labs</a> · NVIDIA Inception program member</strong></p>
+
+<p>
+<a href="https://www.nvidia.com/en-us/startups/">
+<img src="assets/nvidia-inception-program-badge.png" width="280" alt="NVIDIA Inception Program — SynapSoul Labs is a program member" />
+</a>
+</p>
+
 <p>
 <img src="https://komarev.com/ghpvc/?username=shriansh1625&label=Profile%20Views&color=00f5d4&style=for-the-badge" alt="views"/>
 <img src="https://img.shields.io/badge/AI_Engineer-Multi--Agent_Systems-9b5de5?style=for-the-badge&logo=openai&logoColor=white" alt="role"/>
